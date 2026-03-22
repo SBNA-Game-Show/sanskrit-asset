@@ -214,5 +214,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:13.151Z",
     "updatedAt": "2026-03-22T18:27:13.151Z"
+  },
+  {
+    "id": "parvata",
+    "word": "पर्वतः",
+    "transliteration": "Parvata",
+    "translation": "Mountain",
+    "difficulty": "medium",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/parvata.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/parvata.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:14.881Z",
+    "updatedAt": "2026-03-22T18:27:14.881Z"
   }
 ]
