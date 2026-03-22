@@ -130,5 +130,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:01.312Z",
     "updatedAt": "2026-03-22T18:27:01.312Z"
+  },
+  {
+    "id": "gau",
+    "word": "गौः",
+    "transliteration": "Gau",
+    "translation": "Cow",
+    "difficulty": "easy",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/gau.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/gau.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:02.919Z",
+    "updatedAt": "2026-03-22T18:27:02.919Z"
   }
 ]
