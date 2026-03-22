@@ -406,5 +406,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:40.914Z",
     "updatedAt": "2026-03-22T18:27:40.914Z"
+  },
+  {
+    "id": "gyanam",
+    "word": "ज्ञानम्",
+    "transliteration": "Gyanam",
+    "translation": "Knowledge",
+    "difficulty": "hard",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/gyanam.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/gyanam.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:42.611Z",
+    "updatedAt": "2026-03-22T18:27:42.611Z"
   }
 ]
