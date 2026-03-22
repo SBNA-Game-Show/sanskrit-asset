@@ -70,5 +70,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:52.797Z",
     "updatedAt": "2026-03-22T18:26:52.797Z"
+  },
+  {
+    "id": "pushpam",
+    "word": "पुष्पम्",
+    "transliteration": "Pushpam",
+    "translation": "Flower",
+    "difficulty": "easy",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/pushpam.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/pushpam.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:26:54.500Z",
+    "updatedAt": "2026-03-22T18:26:54.500Z"
   }
 ]
