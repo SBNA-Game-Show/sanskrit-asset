@@ -202,5 +202,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:11.379Z",
     "updatedAt": "2026-03-22T18:27:11.379Z"
+  },
+  {
+    "id": "akasha",
+    "word": "आकाशः",
+    "transliteration": "Akasha",
+    "translation": "Sky",
+    "difficulty": "medium",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/akasha.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/akasha.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:13.151Z",
+    "updatedAt": "2026-03-22T18:27:13.151Z"
   }
 ]
