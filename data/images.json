@@ -310,5 +310,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:26.971Z",
     "updatedAt": "2026-03-22T18:27:26.971Z"
+  },
+  {
+    "id": "swatantryam",
+    "word": "स्वातन्त्र्यम्",
+    "transliteration": "Swatantryam",
+    "translation": "Freedom",
+    "difficulty": "hard",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/swatantryam.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/swatantryam.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:28.504Z",
+    "updatedAt": "2026-03-22T18:27:28.504Z"
   }
 ]
