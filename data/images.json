@@ -106,5 +106,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:57.837Z",
     "updatedAt": "2026-03-22T18:26:57.837Z"
+  },
+  {
+    "id": "gaja",
+    "word": "गजः",
+    "transliteration": "Gaja",
+    "translation": "Elephant",
+    "difficulty": "easy",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/gaja.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/gaja.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:26:59.584Z",
+    "updatedAt": "2026-03-22T18:26:59.584Z"
   }
 ]
