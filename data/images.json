@@ -226,5 +226,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:14.881Z",
     "updatedAt": "2026-03-22T18:27:14.881Z"
+  },
+  {
+    "id": "samudra",
+    "word": "समुद्रः",
+    "transliteration": "Samudra",
+    "translation": "Ocean",
+    "difficulty": "medium",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/samudra.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/samudra.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:16.474Z",
+    "updatedAt": "2026-03-22T18:27:16.474Z"
   }
 ]
