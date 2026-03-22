@@ -94,5 +94,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:56.171Z",
     "updatedAt": "2026-03-22T18:26:56.171Z"
+  },
+  {
+    "id": "nadi",
+    "word": "नदी",
+    "transliteration": "Nadi",
+    "translation": "River",
+    "difficulty": "easy",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/nadi.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/nadi.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:26:57.837Z",
+    "updatedAt": "2026-03-22T18:26:57.837Z"
   }
 ]
