@@ -1,0 +1,14 @@
+[
+  {
+    "id": "word-translit",
+    "word": "word",
+    "transliteration": "word-translit",
+    "translation": "word-eng",
+    "difficulty": "easy",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/word-translit.JPG",
+    "audioSrc": "",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:11:38.352Z",
+    "updatedAt": "2026-03-22T18:11:38.352Z"
+  }
+]
