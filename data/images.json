@@ -190,5 +190,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:09.663Z",
     "updatedAt": "2026-03-22T18:27:09.663Z"
+  },
+  {
+    "id": "prithivi",
+    "word": "पृथिवी",
+    "transliteration": "Prithivi",
+    "translation": "Earth",
+    "difficulty": "medium",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/prithivi.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/prithivi.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:11.379Z",
+    "updatedAt": "2026-03-22T18:27:11.379Z"
   }
 ]
