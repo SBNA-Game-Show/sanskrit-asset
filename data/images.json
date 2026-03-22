@@ -358,5 +358,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:33.853Z",
     "updatedAt": "2026-03-22T18:27:33.853Z"
+  },
+  {
+    "id": "vishvam",
+    "word": "विश्वम्",
+    "transliteration": "Vishvam",
+    "translation": "Universe",
+    "difficulty": "hard",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/vishvam.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/vishvam.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:35.723Z",
+    "updatedAt": "2026-03-22T18:27:35.723Z"
   }
 ]
