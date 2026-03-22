@@ -250,5 +250,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:18.163Z",
     "updatedAt": "2026-03-22T18:27:18.163Z"
+  },
+  {
+    "id": "raja",
+    "word": "राजा",
+    "transliteration": "Raja",
+    "translation": "King",
+    "difficulty": "medium",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/raja.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/raja.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:19.844Z",
+    "updatedAt": "2026-03-22T18:27:19.844Z"
   }
 ]
