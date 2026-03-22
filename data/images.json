@@ -238,5 +238,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:16.474Z",
     "updatedAt": "2026-03-22T18:27:16.474Z"
+  },
+  {
+    "id": "kala",
+    "word": "कालः",
+    "transliteration": "Kala",
+    "translation": "Time",
+    "difficulty": "medium",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/kala.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/kala.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:18.163Z",
+    "updatedAt": "2026-03-22T18:27:18.163Z"
   }
 ]
