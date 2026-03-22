@@ -394,5 +394,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:39.195Z",
     "updatedAt": "2026-03-22T18:27:39.195Z"
+  },
+  {
+    "id": "karuna",
+    "word": "करुणा",
+    "transliteration": "Karuna",
+    "translation": "Compassion",
+    "difficulty": "hard",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/karuna.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/karuna.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:40.914Z",
+    "updatedAt": "2026-03-22T18:27:40.914Z"
   }
 ]
