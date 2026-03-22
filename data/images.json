@@ -298,5 +298,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:25.169Z",
     "updatedAt": "2026-03-22T18:27:25.169Z"
+  },
+  {
+    "id": "ananda",
+    "word": "आनन्दः",
+    "transliteration": "Ananda",
+    "translation": "Happiness",
+    "difficulty": "hard",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/ananda.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/ananda.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:26.971Z",
+    "updatedAt": "2026-03-22T18:27:26.971Z"
   }
 ]
