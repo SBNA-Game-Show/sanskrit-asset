@@ -370,5 +370,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:35.723Z",
     "updatedAt": "2026-03-22T18:27:35.723Z"
+  },
+  {
+    "id": "shakti",
+    "word": "शक्ति",
+    "transliteration": "Shakti",
+    "translation": "Energy",
+    "difficulty": "hard",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/shakti.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/shakti.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:37.482Z",
+    "updatedAt": "2026-03-22T18:27:37.482Z"
   }
 ]
