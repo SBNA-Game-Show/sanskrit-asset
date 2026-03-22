@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "pustakam",
+    "word": "पुस्तकम्",
+    "transliteration": "Pustakam",
+    "translation": "Book",
+    "difficulty": "easy",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/pustakam.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/pustakam.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:26:43.902Z",
+    "updatedAt": "2026-03-22T18:26:43.902Z"
+  }
+]
