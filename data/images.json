@@ -322,5 +322,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:28.504Z",
     "updatedAt": "2026-03-22T18:27:28.504Z"
+  },
+  {
+    "id": "satya",
+    "word": "सत्यं",
+    "transliteration": "Satya",
+    "translation": "Truth",
+    "difficulty": "hard",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/satya.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/satya.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:30.405Z",
+    "updatedAt": "2026-03-22T18:27:30.405Z"
   }
 ]
