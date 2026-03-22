@@ -334,5 +334,17 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:30.405Z",
     "updatedAt": "2026-03-22T18:27:30.405Z"
+  },
+  {
+    "id": "mana",
+    "word": "मनः",
+    "transliteration": "Mana",
+    "translation": "Mind",
+    "difficulty": "hard",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/mana.png",
+    "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/mana.mp3",
+    "otherNames": [],
+    "createdAt": "2026-03-22T18:27:32.241Z",
+    "updatedAt": "2026-03-22T18:27:32.241Z"
   }
 ]
