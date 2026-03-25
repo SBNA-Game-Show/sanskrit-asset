@@ -418,17 +418,5 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:42.611Z",
     "updatedAt": "2026-03-22T18:27:42.611Z"
-  },
-  {
-    "id": "hard-new-translit",
-    "word": "hard new",
-    "transliteration": "hard new translit",
-    "translation": "hard new eng",
-    "difficulty": "hard",
-    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/hard-new-translit.JPG",
-    "audioSrc": "",
-    "otherNames": [],
-    "createdAt": "2026-03-25T01:55:33.546Z",
-    "updatedAt": "2026-03-25T01:55:33.546Z"
   }
 ]
