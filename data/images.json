@@ -466,5 +466,17 @@
     "otherNames": [],
     "createdAt": "2026-03-26T18:52:16.140Z",
     "updatedAt": "2026-03-26T18:52:16.140Z"
+  },
+  {
+    "id": "school",
+    "word": "school",
+    "transliteration": "school",
+    "translation": "School",
+    "difficulty": "hard",
+    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/school.jpeg",
+    "audioSrc": "",
+    "otherNames": [],
+    "createdAt": "2026-03-26T18:53:42.578Z",
+    "updatedAt": "2026-03-26T18:53:42.578Z"
   }
 ]
