@@ -466,17 +466,5 @@
     "otherNames": [],
     "createdAt": "2026-03-26T18:52:16.140Z",
     "updatedAt": "2026-03-26T18:52:16.140Z"
-  },
-  {
-    "id": "8e71af18",
-    "word": "flowers",
-    "transliteration": "पुष्पम्",
-    "translation": "Pushpam",
-    "difficulty": "hard",
-    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/8e71af18.jpg",
-    "audioSrc": "",
-    "otherNames": [],
-    "createdAt": "2026-03-26T19:03:35.817Z",
-    "updatedAt": "2026-03-26T19:05:56.724Z"
   }
 ]
