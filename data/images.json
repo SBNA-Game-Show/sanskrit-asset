@@ -442,17 +442,5 @@
     "otherNames": [],
     "createdAt": "2026-03-26T18:51:16.465Z",
     "updatedAt": "2026-03-26T18:51:16.465Z"
-  },
-  {
-    "id": "kaipiba-ra",
-    "word": "Kaipibārā)",
-    "transliteration": "Kaipibārā)",
-    "translation": "Capybara",
-    "difficulty": "hard",
-    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/kaipiba-ra.jpg",
-    "audioSrc": "",
-    "otherNames": [],
-    "createdAt": "2026-03-26T18:52:16.140Z",
-    "updatedAt": "2026-03-26T18:52:16.140Z"
   }
 ]
