@@ -436,12 +436,12 @@
     "word": "वहित्र",
     "transliteration": "vahitra",
     "translation": "Car",
-    "difficulty": "easy",
+    "difficulty": "hard",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/car.jpg",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/car.mp3",
     "otherNames": [],
     "createdAt": "2026-03-26T18:49:49.190Z",
-    "updatedAt": "2026-03-26T18:49:49.190Z"
+    "updatedAt": "2026-03-26T18:51:42.512Z"
   },
   {
     "id": "dinosaur",
