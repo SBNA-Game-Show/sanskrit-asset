@@ -418,17 +418,5 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:42.611Z",
     "updatedAt": "2026-03-22T18:27:42.611Z"
-  },
-  {
-    "id": "space-word",
-    "word": "space word",
-    "transliteration": "space word",
-    "translation": "space word",
-    "difficulty": "hard",
-    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/space-word.JPG",
-    "audioSrc": "",
-    "otherNames": [],
-    "createdAt": "2026-03-26T20:03:00.339Z",
-    "updatedAt": "2026-03-26T20:03:00.339Z"
   }
 ]
