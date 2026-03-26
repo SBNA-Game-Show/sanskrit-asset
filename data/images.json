@@ -418,17 +418,5 @@
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:42.611Z",
     "updatedAt": "2026-03-22T18:27:42.611Z"
-  },
-  {
-    "id": "newnewtranslit",
-    "word": "newnew",
-    "transliteration": "newnewtranslit",
-    "translation": "newneweng",
-    "difficulty": "easy",
-    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/newnewtranslit.JPG",
-    "audioSrc": "",
-    "otherNames": [],
-    "createdAt": "2026-03-26T16:37:45.578Z",
-    "updatedAt": "2026-03-26T16:37:45.578Z"
   }
 ]
