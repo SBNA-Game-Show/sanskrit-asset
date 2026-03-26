@@ -430,17 +430,5 @@
     "otherNames": [],
     "createdAt": "2026-03-26T18:20:34.321Z",
     "updatedAt": "2026-03-26T18:20:34.321Z"
-  },
-  {
-    "id": "dinosaur",
-    "word": "dinosaur",
-    "transliteration": "dinosaur",
-    "translation": "dinosaur",
-    "difficulty": "hard",
-    "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/dinosaur.jpg",
-    "audioSrc": "",
-    "otherNames": [],
-    "createdAt": "2026-03-26T18:51:16.465Z",
-    "updatedAt": "2026-03-26T18:51:16.465Z"
   }
 ]
