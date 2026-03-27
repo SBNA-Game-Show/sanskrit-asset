@@ -325,7 +325,7 @@
   },
   {
     "id": "satya",
-    "word": "सत्यं",
+    "word": "सत्यम्",
     "transliteration": "Satya",
     "translation": "Truth",
     "difficulty": "hard",
@@ -333,7 +333,7 @@
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/satya.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:30.405Z",
-    "updatedAt": "2026-03-22T18:27:30.405Z"
+    "updatedAt": "2026-03-27T17:33:40.313Z"
   },
   {
     "id": "mana",
