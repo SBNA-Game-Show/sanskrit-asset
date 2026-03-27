@@ -350,14 +350,14 @@
   {
     "id": "chatra",
     "word": "छात्रः",
-    "transliteration": "Chatra",
+    "transliteration": "cAtraH",
     "translation": "Student",
     "difficulty": "hard",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/chatra.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/chatra.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:33.853Z",
-    "updatedAt": "2026-03-22T18:27:33.853Z"
+    "updatedAt": "2026-03-27T17:40:39.402Z"
   },
   {
     "id": "vishvam",
