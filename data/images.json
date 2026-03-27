@@ -74,14 +74,14 @@
   {
     "id": "pushpam",
     "word": "पुष्पम्",
-    "transliteration": "Pushpam",
+    "transliteration": "puSpam",
     "translation": "Flower",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/pushpam.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/pushpam.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:54.500Z",
-    "updatedAt": "2026-03-22T18:26:54.500Z"
+    "updatedAt": "2026-03-27T17:56:16.100Z"
   },
   {
     "id": "vriksha",
