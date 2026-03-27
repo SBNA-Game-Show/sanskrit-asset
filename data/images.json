@@ -146,14 +146,14 @@
   {
     "id": "mata",
     "word": "माता",
-    "transliteration": "Mata",
+    "transliteration": "mAtA",
     "translation": "Mother",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/mata.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/mata.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:04.771Z",
-    "updatedAt": "2026-03-22T18:27:04.771Z"
+    "updatedAt": "2026-03-27T17:54:06.795Z"
   },
   {
     "id": "pita",
