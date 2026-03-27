@@ -110,14 +110,14 @@
   {
     "id": "gaja",
     "word": "गजः",
-    "transliteration": "Gaja",
+    "transliteration": "gajaH",
     "translation": "Elephant",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/gaja.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/gaja.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:59.584Z",
-    "updatedAt": "2026-03-22T18:26:59.584Z"
+    "updatedAt": "2026-03-27T17:55:16.078Z"
   },
   {
     "id": "pakshi",
