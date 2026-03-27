@@ -170,14 +170,14 @@
   {
     "id": "mitram",
     "word": "मित्रम्",
-    "transliteration": "Mitram",
+    "transliteration": "mitram",
     "translation": "Friend",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/mitram.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/mitram.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:08.057Z",
-    "updatedAt": "2026-03-22T18:27:08.057Z"
+    "updatedAt": "2026-03-27T17:53:32.345Z"
   },
   {
     "id": "agni",
