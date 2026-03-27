@@ -14,14 +14,14 @@
   {
     "id": "griham",
     "word": "गृहम्",
-    "transliteration": "Griham",
+    "transliteration": "gRham",
     "translation": "House",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/griham.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/griham.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:45.597Z",
-    "updatedAt": "2026-03-22T18:26:45.597Z"
+    "updatedAt": "2026-03-27T17:57:04.626Z"
   },
   {
     "id": "jalam",
