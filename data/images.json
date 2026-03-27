@@ -242,14 +242,14 @@
   {
     "id": "kala",
     "word": "कालः",
-    "transliteration": "Kala",
+    "transliteration": "kAlaH",
     "translation": "Time",
     "difficulty": "medium",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/kala.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/kala.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:18.163Z",
-    "updatedAt": "2026-03-22T18:27:18.163Z"
+    "updatedAt": "2026-03-27T17:44:29.934Z"
   },
   {
     "id": "raja",
