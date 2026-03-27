@@ -290,14 +290,14 @@
   {
     "id": "acharya",
     "word": "आचार्यः",
-    "transliteration": "Acharya",
+    "transliteration": "AcaryaH",
     "translation": "Teacher",
     "difficulty": "medium",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/acharya.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/acharya.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:25.169Z",
-    "updatedAt": "2026-03-22T18:27:25.169Z"
+    "updatedAt": "2026-03-27T17:42:36.096Z"
   },
   {
     "id": "ananda",
