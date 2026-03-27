@@ -302,14 +302,14 @@
   {
     "id": "ananda",
     "word": "आनन्दः",
-    "transliteration": "Ananda",
+    "transliteration": "AnandaH",
     "translation": "Happiness",
     "difficulty": "hard",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/ananda.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/ananda.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:26.971Z",
-    "updatedAt": "2026-03-22T18:27:26.971Z"
+    "updatedAt": "2026-03-27T17:42:16.870Z"
   },
   {
     "id": "swatantryam",
