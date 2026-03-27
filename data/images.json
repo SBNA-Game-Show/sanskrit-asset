@@ -26,14 +26,14 @@
   {
     "id": "jalam",
     "word": "जलम्",
-    "transliteration": "Jalam",
+    "transliteration": "jalam",
     "translation": "Water",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/jalam.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/jalam.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:47.217Z",
-    "updatedAt": "2026-03-22T18:26:47.217Z"
+    "updatedAt": "2026-03-27T17:56:54.504Z"
   },
   {
     "id": "phalam",
