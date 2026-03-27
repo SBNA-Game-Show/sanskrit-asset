@@ -398,14 +398,14 @@
   {
     "id": "karuna",
     "word": "करुणा",
-    "transliteration": "Karuna",
+    "transliteration": "karuNA",
     "translation": "Compassion",
     "difficulty": "hard",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/karuna.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/karuna.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:40.914Z",
-    "updatedAt": "2026-03-22T18:27:40.914Z"
+    "updatedAt": "2026-03-27T17:39:22.352Z"
   },
   {
     "id": "gyanam",
