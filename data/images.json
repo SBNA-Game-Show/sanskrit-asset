@@ -38,14 +38,14 @@
   {
     "id": "phalam",
     "word": "फलम्",
-    "transliteration": "Phalam",
+    "transliteration": "phalam",
     "translation": "Fruit",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/phalam.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/phalam.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:49.051Z",
-    "updatedAt": "2026-03-22T18:26:49.051Z"
+    "updatedAt": "2026-03-27T17:56:46.788Z"
   },
   {
     "id": "surya",
