@@ -62,14 +62,14 @@
   {
     "id": "chandra",
     "word": "चन्द्रः",
-    "transliteration": "Chandra",
+    "transliteration": "candraH",
     "translation": "Moon",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/chandra.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/chandra.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:52.797Z",
-    "updatedAt": "2026-03-22T18:26:52.797Z"
+    "updatedAt": "2026-03-27T17:56:25.470Z"
   },
   {
     "id": "pushpam",
