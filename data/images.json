@@ -266,14 +266,14 @@
   {
     "id": "rani",
     "word": "राज्ञी",
-    "transliteration": "Ragnyi",
+    "transliteration": "Rani",
     "translation": "Queen",
     "difficulty": "medium",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/rani.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/rani.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:21.615Z",
-    "updatedAt": "2026-03-27T17:34:39.682Z"
+    "updatedAt": "2026-03-27T17:34:54.659Z"
   },
   {
     "id": "bala",
