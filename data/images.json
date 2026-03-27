@@ -182,14 +182,14 @@
   {
     "id": "agni",
     "word": "अग्निः",
-    "transliteration": "Agni",
+    "transliteration": "agniH",
     "translation": "Fire",
     "difficulty": "medium",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/agni.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/agni.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:09.663Z",
-    "updatedAt": "2026-03-22T18:27:09.663Z"
+    "updatedAt": "2026-03-27T17:53:19.032Z"
   },
   {
     "id": "prithivi",
