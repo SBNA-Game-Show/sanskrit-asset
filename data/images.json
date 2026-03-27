@@ -50,14 +50,14 @@
   {
     "id": "surya",
     "word": "सूर्यः",
-    "transliteration": "Surya",
+    "transliteration": "sUryaH",
     "translation": "Sun",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/surya.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/surya.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:26:50.935Z",
-    "updatedAt": "2026-03-22T18:26:50.935Z"
+    "updatedAt": "2026-03-27T17:56:36.921Z"
   },
   {
     "id": "chandra",
