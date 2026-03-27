@@ -122,14 +122,14 @@
   {
     "id": "pakshi",
     "word": "पक्षी",
-    "transliteration": "Pakshi",
+    "transliteration": "pakSI",
     "translation": "Bird",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/pakshi.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/pakshi.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:01.312Z",
-    "updatedAt": "2026-03-22T18:27:01.312Z"
+    "updatedAt": "2026-03-27T17:54:46.830Z"
   },
   {
     "id": "gau",
