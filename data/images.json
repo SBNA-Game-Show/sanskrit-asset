@@ -386,14 +386,14 @@
   {
     "id": "vak",
     "word": "वाक्",
-    "transliteration": "Vak",
+    "transliteration": "vAk",
     "translation": "Speech",
     "difficulty": "hard",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/vak.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/vak.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:39.195Z",
-    "updatedAt": "2026-03-22T18:27:39.195Z"
+    "updatedAt": "2026-03-27T17:39:40.799Z"
   },
   {
     "id": "karuna",
