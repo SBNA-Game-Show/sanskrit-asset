@@ -278,14 +278,14 @@
   {
     "id": "bala",
     "word": "बालः",
-    "transliteration": "Bala",
-    "translation": "Child",
+    "transliteration": "bAlaH",
+    "translation": "child (male)",
     "difficulty": "medium",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/bala.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/bala.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:23.403Z",
-    "updatedAt": "2026-03-22T18:27:23.403Z"
+    "updatedAt": "2026-03-27T17:43:02.660Z"
   },
   {
     "id": "acharya",
