@@ -158,14 +158,14 @@
   {
     "id": "pita",
     "word": "पिता",
-    "transliteration": "Pita",
+    "transliteration": "pitA",
     "translation": "Father",
     "difficulty": "easy",
     "imageSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/images/pita.png",
     "audioSrc": "https://raw.githubusercontent.com/SBNA-Game-Show/sanskrit-asset/main/audio/pita.mp3",
     "otherNames": [],
     "createdAt": "2026-03-22T18:27:06.404Z",
-    "updatedAt": "2026-03-22T18:27:06.404Z"
+    "updatedAt": "2026-03-27T17:53:43.142Z"
   },
   {
     "id": "mitram",
